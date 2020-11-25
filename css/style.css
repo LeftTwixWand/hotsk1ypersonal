@@ -445,12 +445,12 @@ a {
 
 .slider .slick-arrow.slick-prev {
   left: 0;
-  background: url(/images/portfolio-item/left-arrow.svg) 0 0/100% no-repeat;
+  background: url(../images/portfolio-item/left-arrow.svg) 0 0/100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next {
   right: 0;
-  background: url(/images/portfolio-item/right-arrow.svg) 0 0/100% no-repeat;
+  background: url(../images/portfolio-item/right-arrow.svg) 0 0/100% no-repeat;
 }
 
 .slick-track {
